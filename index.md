@@ -29,6 +29,18 @@
           font-size: 3.5rem;
         }
       }
+
+      .container {
+        max-width: 960px;
+      }
+
+      .pricing-header {
+        max-width: 700px;
+      }
+
+      .card-deck .card {
+        min-width: 220px;
+      }
     </style>
     <!-- Custom styles for this template -->
     <link href="pricing.css" rel="stylesheet">
